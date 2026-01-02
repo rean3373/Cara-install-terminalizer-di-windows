@@ -65,11 +65,6 @@ terminalizer render rehan
 ```
 
 
-```
-terminalizer play rehan
-```
-
-
 <img width="1343" height="745" alt="C__Windows_system32_cmd exe  - _node_   _C__Users_rehan_AppData_Roaming_npm__node_modules_terminalizer_bin_app js_ render rehan 02_01_2026 04_17_24" src="https://github.com/user-attachments/assets/f742b884-f1ef-4571-990e-5e3604e7165a" />
 
 ### 4. Hasilnya
